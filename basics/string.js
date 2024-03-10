@@ -19,3 +19,15 @@ var s=new String("ram ji is idol of millions hindu");
 // s+="dwdw"
 // console.log(s);
 console.log(s.split(" "));
+// let S=new String(ram);
+// console.log(S);
+// S.toUpperCase();
+// console.log(S);
+// console.log(typeof S);
+// let a={
+//     name:"rohit"
+// }
+// console.log(a.name);
+// a.name.toUpperCase();
+// a.name="prasshant"
+// console.log(a.name);
